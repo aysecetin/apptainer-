@@ -1,4 +1,4 @@
-# _HPC Ortamında Singularity Sandbox Kullanımı (Best Practice)_
+# _HPC Ortamında Singularity Sandbox Kullanımı_
 
 ### 📦 1. Sandbox İmajı Oluşturma
 **Neden**
