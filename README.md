@@ -52,7 +52,7 @@ singularity shell --nv --writable ml_env
 ### 📦 5. Son Halini .sif Olarak Paketleme
 - Geliştirme bittikten sonra:
 
-``bash
+```bash
 singularity build ml_env.sif ml_env
 ```
 
