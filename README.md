@@ -55,10 +55,13 @@ singularity shell --nv --writable ml_env
 ``bash
 singularity build ml_env.sif ml_env
 ```
+
 - .sif dosyası salt-okunur ve taşınabilir
 
 - HPC’de paylaşmak ve tekrar çalıştırmak için idealdir.
 
+
+![Sandbox usage](assets/sandbox-usage.png)
 
 
 
