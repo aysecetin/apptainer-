@@ -59,8 +59,8 @@ singularity build ml_env.sif ml_env
 
 - HPC’de paylaşmak ve tekrar çalıştırmak için idealdir.
 
---------------
 
-![Sandbox usage](assets/sandbox-usage.png)
+
+
 
 
